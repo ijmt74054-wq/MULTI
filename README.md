@@ -47,7 +47,7 @@
   <!-- CONTACT -->
   <section id="contact">
     <h2>Contact</h2>
-    <p>Téléphone : +243 XXX XXX XXX</p>
+    <p>Téléphone : +243892827123</p>
     <p>Email : contact@multi-service.com</p>
   </section>
 
